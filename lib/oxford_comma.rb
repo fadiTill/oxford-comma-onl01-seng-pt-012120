@@ -1,5 +1,8 @@
+
+
 def oxford_comma(array)
-  return array[0]
+  array = ["kiwi", "durian", "starfruit", "mangos", "dragon fruits"
+   array[0]
 end
 
 def oxford_comma(array)
