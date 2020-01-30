@@ -12,4 +12,4 @@ end
 def oxford_comma
   if array.length == 3
     return "#{array[0]},#{array[1]},#{array[2]} and }"
-  end 
+  end
