@@ -4,6 +4,6 @@ end
 
 def oxford_comma(array)
   if array.length == 2
-  return "#{words[0]} and #{words[1]}"
+  return "#{array[0]} and #{array[1]}"
 end
 end
